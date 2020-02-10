@@ -106,7 +106,7 @@ maka trik untuk mengatasi konten yang overlapping dengan menggunakan property ov
 Overflow digunakan untuk memunculkan scroll bar jika konten pada sebuah elemen melebihi ukuran elemen tersebut. 
 Berikut ini contoh penggunaan CSS position dan overflow.
 
-![Alt Text](https://github.com/inamyrpl28/CSS/blob/master/5.PNG)
+![Alt Text](https://github.com/inamyrpl28/CSS/blob/master/2020-02-10.png)
 
 LATIHAN 6
 -> Navigation Bar
